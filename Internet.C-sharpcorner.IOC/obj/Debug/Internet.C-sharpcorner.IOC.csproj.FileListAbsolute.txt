@@ -1,0 +1,6 @@
+D:\Ari Gunawan\Belajar\Unity Framework\Code\Internet.C-sharpcorner.IOC\Internet.C-sharpcorner.IOC\bin\Debug\Internet.C-sharpcorner.IOC.exe.config
+D:\Ari Gunawan\Belajar\Unity Framework\Code\Internet.C-sharpcorner.IOC\Internet.C-sharpcorner.IOC\bin\Debug\Internet.C-sharpcorner.IOC.exe
+D:\Ari Gunawan\Belajar\Unity Framework\Code\Internet.C-sharpcorner.IOC\Internet.C-sharpcorner.IOC\bin\Debug\Internet.C-sharpcorner.IOC.pdb
+D:\Ari Gunawan\Belajar\Unity Framework\Code\Internet.C-sharpcorner.IOC\Internet.C-sharpcorner.IOC\obj\Debug\Internet.C-sharpcorner.IOC.csprojResolveAssemblyReference.cache
+D:\Ari Gunawan\Belajar\Unity Framework\Code\Internet.C-sharpcorner.IOC\Internet.C-sharpcorner.IOC\obj\Debug\Internet.C-sharpcorner.IOC.exe
+D:\Ari Gunawan\Belajar\Unity Framework\Code\Internet.C-sharpcorner.IOC\Internet.C-sharpcorner.IOC\obj\Debug\Internet.C-sharpcorner.IOC.pdb
