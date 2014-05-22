@@ -14,7 +14,8 @@ namespace Internet.C_sharpcorner.IOC
         public void FactoryMethod()
         {
             objKid = new Kids(12, "Ren");
-            p = new Person(42, "David", objKid);
+            p = new Person(42, "David");
+            p.RefKids = objKid;
         }
 
         public override string ToString()
@@ -23,7 +24,7 @@ namespace Internet.C_sharpcorner.IOC
 
             Console.WriteLine(p);
             Console.WriteLine(objKid);
-            return "Displaying using Constructor Injection";
+            return "Displaying using Setter Injection";
         }
     }
 }

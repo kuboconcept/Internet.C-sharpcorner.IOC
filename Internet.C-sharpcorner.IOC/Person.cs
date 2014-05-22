@@ -12,11 +12,22 @@ namespace Internet.C_sharpcorner.IOC
         private string name;
         private IBusinessLogic refKids;
 
-        public Person(int personAge, string personName, IBusinessLogic obj)
+        public Person(int personAge, string personName)
         {
-            refKids = obj;
             age = personAge;
             name = personName;
+        }
+
+        public IBusinessLogic RefKids
+        {
+            set
+            {
+                refKids = value;
+            }
+            get
+            {
+                return refKids;
+            }
         }
 
         public override string ToString()
@@ -24,7 +35,6 @@ namespace Internet.C_sharpcorner.IOC
             //return base.ToString();
 
             string s = age.ToString();
-            Console.WriteLine(refKids);
             return String.Format("ParentAge{0} ParentName{1}", s, name);
         }
     }
