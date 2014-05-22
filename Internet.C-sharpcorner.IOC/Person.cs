@@ -10,7 +10,7 @@ namespace Internet.C_sharpcorner.IOC
     {
         private int age;
         private string name;
-        IBusinessLogic refKids;
+        private IBusinessLogic refKids;
 
         public Person(int personAge, string personName, IBusinessLogic obj)
         {

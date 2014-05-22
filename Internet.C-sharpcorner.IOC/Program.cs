@@ -13,6 +13,7 @@ namespace Internet.C_sharpcorner.IOC
             //Person p = new Person(35, "Dev", 6, "Len");
             //Console.WriteLine(p);
 
+            // Constructor injection
             IOCClass obj = new IOCClass();
             obj.FactoryMethod();
             Console.WriteLine(obj);
